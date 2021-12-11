@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+body {
+	margin: 0;
+	padding: 0;
+}
+main {
+	width: 100%;
+	background: url('hosp1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	font-family: Poppins;
+}
+form {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 15px;
+	width: 40%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+form .input {
+	width: 70%;
+	height: 40px;
+	border: none;
+	border-radius: 8px;
+	margin-top: 20px;
+}
+form span {
+	display: flex;
+	flex-direction: row;
+}
+form .btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: transparent;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+	padding-left: 8px;
+	padding-right: 8px;
+	width: 130px;
+	height: 50px;
+	margin-right: 10px;
+	border: solid 1px black;
+	border-radius: 15px;
+	margin-bottom: 20px;
+}
