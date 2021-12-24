@@ -51,7 +51,7 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
 		<div class="nav-items">
 
 			<!-- The Menu items -->
-			<li><a href="home.php">🏡HOME</a></li>
+			<li><a href="index.php">🏡HOME</a></li>
 			<li><button onclick="document.getElementById('id02').style.display='block'" id='btn-1' title="View to Know Us">ABOUT US</button></li>
 			
 			<script type="text/javascript">
