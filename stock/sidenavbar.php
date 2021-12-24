@@ -52,7 +52,7 @@
 		 <br><br><h3 style="color:white;">ADMIN WORKSPACE</h3><br><br>
         
       <!-- Links in Div -->
-      <a href="home.php">🏡&nbspHOME</a>
+      <a href="index.php">🏡&nbspHOME</a>
       <a href="adminpage.php">⏲&nbspDASHBOARD</a>
       <a href="display.php">📚&nbspNew Stock Entry</a>
       <a href="reused.php">📚&nbspReusable Stock Entry</a>
