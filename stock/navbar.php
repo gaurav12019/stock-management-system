@@ -23,7 +23,7 @@
 		<div class="nav-items">
 
 			<!-- The Menu items -->
-			<li><a href="home.php">🏡HOME</a></li>
+			<li><a href="index.php">🏡HOME</a></li>
 			
 			
 			
