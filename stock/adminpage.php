@@ -48,7 +48,7 @@
       <br><br><h3>ADMIN WORKSPACE</h3><br><br>
         
       <!-- Links in Div -->
-      <a href="home.php"><b>🏡</b>&nbspHOME</a>
+      <a href="index.php"><b>🏡</b>&nbspHOME</a>
       <a href="adminpage.php"><b>⏲</b>&nbspDASHBOARD</a>
       <a href="display.php"><b>📚</b>&nbspNew Stock Entry</a>
       <a href="reused.php"><b>📚</b>&nbspReusable Stock Entry</a>
